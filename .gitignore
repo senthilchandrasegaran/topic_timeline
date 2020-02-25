@@ -1,0 +1,17 @@
+/web.config
+
+*.mp4
+*.m4v
+*.zip
+*.gz
+*.swp
+*.pptx
+
+node_modules/
+.ipynb_checkpoints/*
+*/__pycache__
+jupyter-topicmodeling/corpora/*
+.DS_Store
+.tern-project
+numberbatch-en-17.06.txt
+*.w2v
